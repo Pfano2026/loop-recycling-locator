@@ -1,0 +1,56 @@
+[
+  {
+    "id": "sample-glass-1",
+    "name": "Pike Street Glass Return",
+    "lat": 47.6094,
+    "lng": -122.3422,
+    "address": "101 Pike Street, Seattle, WA",
+    "materials": ["glass"],
+    "demo": true
+  },
+  {
+    "id": "sample-mix-2",
+    "name": "Cedar Grove Recycling Hub",
+    "lat": 47.6138,
+    "lng": -122.3341,
+    "address": "240 Union Street, Seattle, WA",
+    "materials": ["glass", "paper", "plastic", "metal"],
+    "demo": true
+  },
+  {
+    "id": "sample-ewaste-3",
+    "name": "Market Street Reuse Point",
+    "lat": 47.6074,
+    "lng": -122.3371,
+    "address": "520 Market Avenue, Seattle, WA",
+    "materials": ["batteries", "electronics", "paper"],
+    "demo": true
+  },
+  {
+    "id": "sample-glass-4",
+    "name": "Harborview Bottle Bank",
+    "lat": 47.6002,
+    "lng": -122.3301,
+    "address": "18 Harbor Lane, Seattle, WA",
+    "materials": ["glass", "metal"],
+    "demo": true
+  },
+  {
+    "id": "sample-plastic-5",
+    "name": "Greenway Community Center",
+    "lat": 47.6208,
+    "lng": -122.3493,
+    "address": "75 North Cedar Road, Seattle, WA",
+    "materials": ["plastic", "paper", "batteries"],
+    "demo": true
+  },
+  {
+    "id": "sample-battery-6",
+    "name": "North Loop Materials Depot",
+    "lat": 47.6262,
+    "lng": -122.3368,
+    "address": "320 Vine Street, Seattle, WA",
+    "materials": ["batteries", "electronics", "metal"],
+    "demo": true
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "loop. — Recycling drop-off finder",
+  "short_name": "loop.",
+  "description": "Find nearby recycling drop-off points and get directions.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8f4",
+  "theme_color": "#eaf0e8",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "appId": "com.loop.recyclelocator",
+  "appName": "Loop Recycling Locator",
+  "webDir": "dist",
+  "android": {
+    "backgroundColor": "#f7f8f4"
+  }
+}
